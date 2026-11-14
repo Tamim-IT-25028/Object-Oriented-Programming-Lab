@@ -25,7 +25,7 @@ int main() {
                     ans++;
           }
   } }
-        cout << ans << "\n";\
+        cout <<"Total Number of Pair:"<< ans << "\n";\
     }
     return 0;
 }
